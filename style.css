@@ -74,4 +74,23 @@
         display: block;
         font-size: 12.5px;
     }
+    .step-box{
+        width: 90%;
+        margin: 3% auto; 
+      }
+      .step-img1 {
+        height: 140px;
+      }
+      .step-img2 {
+        height: 140px;
+      }
+      .step-img3 {
+        height: 140px;
+      }
+
+      .step-box:last-child {
+        margin: 0 auto;
+      }
+
+      }
   }
