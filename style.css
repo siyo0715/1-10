@@ -69,4 +69,9 @@
     header{
         width: 100%;
     }
+    main {
+        width: 100%;
+        display: block;
+        font-size: 12.5px;
+    }
   }
