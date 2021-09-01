@@ -66,4 +66,7 @@
     background-color: #aaa;
   }
   @media screen and (max-width: 768px) {
+    header{
+        width: 100%;
+    }
   }
